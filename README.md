@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Paschal2004
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Paschal sangawe
+- 👀 I’m interested in cyber security and digital forensics 
+- 🌱 I’m currently learning  cyber security and digital forensics 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ladenkidayo@gmail.com
 
 
 <!---
-Paschal2004/Paschal2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Paschal sangawe/Paschal sangawe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
